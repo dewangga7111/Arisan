@@ -1,7 +1,7 @@
-#Arisan 
+# Arisan 
 Aldi Dewangga
 
-#Cara Menggunakan
+# Cara Menggunakan
 1.Import file arisan.sql ke phpmyadmin.
 2.Buka halaman utama web arisan(index.php).
 3.Klik tombol tambah untuk menambah anggota. Ketika sudah ditambah akan tampil di halaman utama.
